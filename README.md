@@ -1,27 +1,24 @@
 <div align="center">
-    <img src="https://img.shields.io/github/issues/Fluxoah/Area-Calculator?style=flat" alt="issues">
-    <img src="https://tokei.rs/b1/github/YourUsername/Area-Calculator?category=code&style=flat" alt="Lines of code">
+    <img src="https://tokei.rs/b1/github/Fluxoah/Codedex-Area-Calculator?category=code&style=flat" alt="Lines of code">
+    <img src="https://img.shields.io/badge/Language-Python-blue" alt="Language">
 </p>
-
-[![Github Release Downloads](https://img.shields.io/github/downloads/YourUsername/Area-Calculator/total?label=Github%20Release%20Downloads&style=flat-square)](https://github.com/YourUsername/Area-Calculator/releases)
-
-## Program demonstration:
-
-[![Demo Preview](https://via.placeholder.com/600x400.png?text=Area+Calculator+Demo)](https://github.com/YourUsername/Area-Calculator)
-
-<a href="https://github.com/YourUsername/Area-Calculator"><img src="https://img.shields.io/badge/GitHub-Repository-blue" alt="GitHub Repository"/></a>
-<a href="https://github.com/YourUsername/Area-Calculator/issues"><img src="https://img.shields.io/badge/GitHub-Issues-red" alt="GitHub Issues"/></a>
+<a href="https://github.com/Fluxoah/Codedex-Area-Calculator"><img src="https://img.shields.io/badge/GitHub-Repository-blue" alt="GitHub Repository"/></a>
 <br>
 
 ## Program description
 
 </div>
 
-Area Calculator is a simple open-source Python program that calculates the area of different geometric shapes including triangle, rectangle, square, and circle. It provides a clean text-based interface for easy input and output.
+Codedex-Area-Calculator is a simple open-source Python program that calculates the area of different geometric shapes including triangle, rectangle, square, and circle. It provides a clean text-based interface for easy input and output.
 
-## Issues
+**Language:** Python
 
-If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/YourUsername/Area-Calculator/issues).
+## Features
+
+- Calculate area for multiple shapes: triangle, rectangle, square, and circle.
+- Interactive text-based menu for ease of use.
+- Handles invalid input gracefully.
+- Instant calculation and display of results.
 
 ## Usage
 
@@ -30,4 +27,3 @@ If you notice any bugs or missing features, you can let us know by opening an is
 3. Run the program:
    ```bash
    python area_calculator.py
-
